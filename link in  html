@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>link and img
+    </title>
+</head>
+<body>
+    <!--this is simple link direct open in your website-->
+    <a href="https://www.facebook.com"> go for facebook</a><br>
+    <a href="https://www.google.com"> go for google</a><br>
+    <a href="https://www.twitter.com"> go for twitter</a><br>
+    <hr>
+    <!--in this we use target for open web in diffrent page-->
+    <a href="https://www.facebook.com"target=_blank> go for facebook</a><br>
+    <a href="https://www.google.com"target=_blank> go for google</a><br>
+    <a href="https://www.twitter.com"target=_blank> go for twitter</a><br>
+    <hr>
+    
+    <img src="https://unsplash.com/photos/turned-on-black-android-smartphone-89xuP-XmyrA" alt="img is not loading">
+</body>
+</html>
