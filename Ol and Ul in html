@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3 style="color: brown;">list of drinks</h3>
+    <ol>
+        <li style="list-style: square;">chai</li>
+        <li style="list-style: circle;">milk</li>
+        <li style="list-style: disc;">cold drinks</li>
+        <ul>
+            <li>coca</li>
+            <li>limka</li>
+        </ul>
+    </ol>
+    <hr>
+
+</body>
+</html>
