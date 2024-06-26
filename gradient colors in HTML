@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #mydiv{
+            height: 100px;
+            background:linear-gradient(to bottom ,pink,green);
+        }
+        #harsh{
+            height: 100px;
+            background:linear-gradient(to bottom left,rgb(49, 9, 224),rgb(178, 15, 3));
+        }
+        #dhruv{
+            height: 100px;
+            background:radial-gradient(red 5%,green 15%,pink 60%);
+        }
+    </style><!--you use repeating for repeat the colour like this repeating-redial-gradient  -->
+</head>
+<body>
+    <div id="mydiv"></div>
+    <div id="harsh"></div>
+    <div id="dhruv"></div>
+</body>
+</html>
